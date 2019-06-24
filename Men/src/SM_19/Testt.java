@@ -25,6 +25,7 @@ public class Testt extends AAB{
 		System.out.println(a==b);
 		System.out.println(a==c);
 		
+		
 	}
 
 }
